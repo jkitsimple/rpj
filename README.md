@@ -1,6 +1,6 @@
 # Rpj - Ruby CLI for Remote Personal Journal
 
-Under Cronstruction.. 
+Under Construction.. 
 
 ![Under Construction Picture](https://i.imgur.com/8ECP3Wx.jpg)
 
